@@ -1,7 +1,6 @@
 <div align="center">
 
-  <!-- Your BIG Animated Face Avatar -->
-  <img src="face_forming.gif" width="500" alt="Alekhya Character Portrait" style="border-radius: 15px;" />
+  <img src="face_forming.gif?v=2" width="500" alt="Alekhya Character Portrait" style="border-radius: 15px;" />
 
   # ⚡ ALEKHYA // LVL 24 BUILDER
   
